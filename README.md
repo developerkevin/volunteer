@@ -13,13 +13,20 @@ If you are interested in community organization, you can find more information a
 
 Invitation link https://discord.gg/G7GpJPX
 
-### IRC 
+### ETC Development Page
+
+https://ethclassic.dev/
 
 Server oftc.net, channel #etc-dev
 
 ### Telegram
 
-https://telegram.me/etcdev
+https://telegram.me/etclabs
+https://telegram.me/ethclassic
+
+### Forum
+
+https://forum.ethereumclassic.org
 
 ## Structure
 
